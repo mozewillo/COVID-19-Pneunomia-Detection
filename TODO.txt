@@ -1,0 +1,15 @@
+TODO PLAN 
+
+Main task we want to accomplish:
+-- join kaggle competition as a team (deadline 26th May) [2p]
+-- review of kaggle topics related to task [4p]
+-- data analysis [6p]
+-- creating our own approach [9p]
+-- implementation [12p]
+-- validation [6p]
+-- making the kaggle deadline (2nd June) [100p]
+
+
+Minor tasks:
+-- comparison of different approaches [4p]
+-- sharing the results with a group [2p]
