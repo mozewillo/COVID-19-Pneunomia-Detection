@@ -1,5 +1,9 @@
-# ROCS
-ROCS (Recognition of Optical Chemical Structures)
+# COVID-19-Pneunomia-Detection
+
+Project created for SIIM-FISABIO-RSNA COVID-19 Detection
 
 ### Description
-The aim of this project is to take part in a kaggle [competition](https://www.kaggle.com/c/bms-molecular-translation/overview/description) oriented on creating a machine learning based tool for automated recognition of optical chemical structures. Since there are decades of scanned documents that can't be automatically searched for specific chemical depictions, the problem is significant for scientists, especially in the field of organic chemistry. Successful annotation of images with an InChI ([International_Chemical_Identifier](https://pl.wikipedia.org/wiki/International_Chemical_Identifier)) might speed up research and development efforts.
+The aim of this project is to take part in a kaggle [competition](https://www.kaggle.com/c/siim-covid19-detection) oriented on creating a mcomputer vision tool for automated recognition of COVID caused pneunomia. 
+
+Our task is to identify and localize COVID-19 abnormalities on chest radiographs. In particular, categorize the radiographs as negative for pneumonia or typical, indeterminate, or atypical for COVID-19. The imaging data used for model training was annotated by a group of radiologists.
+
